@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
 
 **ziuni/ziuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
 
  
- <div align="center">TECH STACK</div>
+<!--  <div align="center">TECH STACK</div>
 
 <img src="https://img.shields.io/badge/C-A9BACD?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![picture](https://img.shields.io/badge/JavaScript-F7DFE?style=flat-square&logo=Javascript&logoColor=white)
 
 [![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziuni)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziuni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziuni&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
